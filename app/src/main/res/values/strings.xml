@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HackChallenge</string>
+    <string name="decription">decription</string>
+    <string name="submit">submit</string>
+    <string name="calory">calory</string>
+    <string name="foodname">foodname</string>
+</resources>
